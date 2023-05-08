@@ -1,0 +1,18 @@
+---
+title: "Randy Williams"
+image: linkedin photo.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/rcs4787
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/randy-williams-0776647/
+    - icon: github
+      text: Github
+      href: https://github.com/TheyDoExists
+---
+
+About this blog

@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Welcome to My Blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/TheyDoExists
+      - icon: twitter
+        href: https://twitter.com/rcs4787
+      - icon: linkedin
+        href: https://www.linkedin.com/in/randy-williams-0776647/
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,10 @@
+---
+title: "Welcome To My Blog"
+author: "Randy Williams"
+date: "2023-04-30"
+categories: [news]
+---
+
+This is the first post in my Data Science Quarto blog. Welcome!
+
+![](thumbnail.jpg)
